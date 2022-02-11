@@ -1,5 +1,9 @@
 # TstAngularPipelines
 
+Proyecto generado para probar la integracion continua utilizando Azure DEVOPS Y PIPELINES
+
+[![Build status](https://grupopiero.visualstudio.com/tst-angular-pipeline/_apis/build/status/tst-angular-pipeline-CI)](https://grupopiero.visualstudio.com/tst-angular-pipeline/_build/latest?definitionId=2)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 ## Development server
